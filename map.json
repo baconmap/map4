@@ -92,6 +92,12 @@
          "id":86,
          "name":"enter-point-right",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -104,6 +110,12 @@
          "id":85,
          "name":"enter-point-left",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
