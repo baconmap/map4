@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map\/map.json"
+                 "value":"https:\/\/play.chainbacon.com\/_\/global\/baconmap.github.io\/map3\/map.json#enter-point-left"
                 }],
          "type":"tilelayer",
          "visible":true,
