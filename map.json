@@ -142,11 +142,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsitTriggerMessage",
-                 "type":"string",
-                 "value":"Press SPACE to open ShetchTogether web page! \u6309\u7a7a\u683c\u9375\u6253\u958b ShetchTogether  \u7db2\u9801\uff01"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.sketchtogether.com\/s\/sketch\/DxumT.5.1\/"
@@ -155,6 +150,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to open ShetchTogether web page! \u6309\u7a7a\u683c\u9375\u6253\u958b ShetchTogether  \u7db2\u9801\uff01"
                 }],
          "type":"tilelayer",
          "visible":true,
