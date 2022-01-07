@@ -144,7 +144,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MeetingRoom"
+                 "value":"LofiMeetingRoom_test_001"
                 }, 
                 {
                  "name":"jitsiTragger",
